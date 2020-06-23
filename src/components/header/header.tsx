@@ -31,10 +31,10 @@ const Header = (): JSX.Element => {
         Emojis for your commit messages
       </h2>
       <a
-        href='https://github.com/southworks/emojicommit'
+        href='https://github.com/gabriel1536/emojicommit'
         target='_blank'
         rel='noopener noreferrer'
-        className={`${transitionSec} bg-${secondaryColor}-500 hover:bg-${secondaryColor}-light text-white font-bold py-2 px-4 hover:border-${secondaryColor}-500 border-b-4 border-${secondaryColor}-700 border-${secondaryColor}-500 rounded focus:outline-none`}>
+        className={`transition duration-500 ease-in-out bg-${secondaryColor}-500 hover:bg-${secondaryColor}-light text-white font-bold py-2 px-4 hover:border-${secondaryColor}-500 border-b-4 border-${secondaryColor}-700 border-${secondaryColor}-500 rounded focus:outline-none`}>
         {`🎩 GitHub`}
       </a>
     </header>

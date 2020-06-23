@@ -12,7 +12,7 @@ const Footer = (): JSX.Element => {
         You can suggest changes or new emojis in{' '}
         <a
           className={`${transitionSec} px-2 text-${primaryColor}-700`}
-          href='https://github.com/southworks/emojicommit'
+          href='https://github.com/gabriel1536/emojicommit'
           target='_blank'
           rel='noopener noreferrer'>
           GitHub

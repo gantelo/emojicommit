@@ -13,7 +13,7 @@ const encrypted = process.env.github_token;
 const processAfterDecrypt = decrypted => {
   execSync('rm -rf /tmp/*', { encoding: 'utf8', stdio: 'inherit' });
   execSync(
-    `cd /tmp && git clone https://${decrypted}@github.com/southworks/emojicommit.git`,
+    `cd /tmp && git clone https://${decrypted}@github.com/emojicommit.git`,
     { encoding: 'utf8', stdio: 'inherit' },
   );
   execSync(

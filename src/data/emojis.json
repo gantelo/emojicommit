@@ -162,9 +162,9 @@
   },
   {
     "id": 24,
-    "emoji": "💄",
-    "code": ":lipstick:",
-    "color": "teal",
-    "text": "Update styling for {x}."
+    "emoji": "✏️",
+    "code": ":pencil2:",
+    "color": "yellow",
+    "text": "Fix typo"
   }
 ]

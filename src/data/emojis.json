@@ -159,5 +159,12 @@
     "code": ":clinking_glasses:",
     "color": "yellow",
     "text": "Add functionality for {x} component."
+  },
+  {
+    "id": 24,
+    "emoji": "💄",
+    "code": ":lipstick:",
+    "color": "teal",
+    "text": "Update styling for {x}."
   }
 ]

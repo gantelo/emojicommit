@@ -22,4 +22,10 @@ jobs:
       - name: Yarn Install and build
         run: |
           yarn install
-          yarn deploy
+          yarn build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build

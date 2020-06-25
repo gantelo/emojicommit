@@ -165,13 +165,55 @@
     "emoji": "✏️",
     "code": ":pencil2:",
     "color": "yellow",
-    "text": "Fix typo"
+    "text": "Fix typo."
   },
   {
     "id": 25,
     "emoji": "💫",
     "code": ":dizzy:",
     "color": "yellow",
-    "text": "Add/Update animations and transitions"
+    "text": "Add/Update animations and transitions."
+  },
+  {
+    "id": 26,
+    "emoji": "🎨",
+    "code": ":art:",
+    "color": "red",
+    "text": "Add/Update linter rules."
+  },
+  {
+    "id": 27,
+    "emoji": "🚓",
+    "code": ":police_car:",
+    "color": "blue",
+    "text": "Apply feedback from PR."
+  },
+  {
+    "id": 28,
+    "emoji": "🏗️",
+    "code": ":building_construction:",
+    "color": "orange",
+    "text": "Architectural changes."
+  },
+  {
+    "id": 29,
+    "emoji": "👷",
+    "code": ":construction_worker:",
+    "color": "indigo",
+    "text": "Add/Update CI/CD."
+  },
+  {
+    "id": 30,
+    "emoji": "♿️",
+    "code": ":wheelchair:",
+    "color": "blue",
+    "text": "Improving accessibility."
+  },
+  {
+    "id": 31,
+    "emoji": "⚗",
+    "code": ":alembic:",
+    "color": "purple",
+    "text": "Experimenting new things."
   }
 ]

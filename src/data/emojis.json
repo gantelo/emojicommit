@@ -166,5 +166,12 @@
     "code": ":pencil2:",
     "color": "yellow",
     "text": "Fix typo"
+  },
+  {
+    "id": 25,
+    "emoji": "💫",
+    "code": ":dizzy:",
+    "color": "yellow",
+    "text": "Add/Update animations and transitions"
   }
 ]

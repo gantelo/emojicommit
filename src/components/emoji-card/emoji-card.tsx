@@ -11,7 +11,7 @@ interface EmojiCardProps {
 const EmojiCard = (props: EmojiCardProps): JSX.Element => {
   const { setStringCopied, emoji } = props;
   return (
-    <div className='bg-white shadow-lg rounded-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-100 hover:shadow-2xl m-4 cw border border-gray-200'>
+    <div className='bg-white shadow-lg rounded-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-100 hover:shadow-2xl m-4 cw border border-gray-200 emoji-card'>
       <div className='flex flex-col w-full h-48 text-center justify-center'>
         <span className={`text-6xl p-12 bg-${emoji.color}-400`}>
           <Emoji

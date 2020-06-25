@@ -15,3 +15,27 @@
     width: 16rem;
   }
 }
+
+.emoji-card {
+  -webkit-animation-name: slideIn;
+  -webkit-animation-duration: 0.3s;
+  animation-name: slideIn;
+  animation-duration: 0.5s;
+}
+
+@-webkit-keyframes slideIn {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes slideIn {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

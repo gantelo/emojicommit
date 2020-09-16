@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emojicommit/precache-manifest.ec18b586552ab20aec0199f690e9963a.js"
+  "/emojicommit/precache-manifest.0261293fb9ab3887046cb1349e69b943.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -10,4 +10,4 @@ Standarize emoji use across your company for your commits
  - CloudWatch/Lambda: 1 day trigger event to update the sort order based on emoji copies
  - API Gateway: endpoint to call lambda function
 
-## [Link to the page](https://gabriel1536.github.io/emojicommit/)
+## [Link to the page](https://gantelo.github.io/emojicommit/)

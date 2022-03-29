@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "emoji": "🌟",
-    "code": ":star2:",
+    "emoji": "✨",
+    "code": ":sparkles:",
     "color": "yellow",
     "text": "Add this new component."
   },
@@ -215,5 +215,12 @@
     "code": ":alembic:",
     "color": "purple",
     "text": "Experimenting new things."
+  },
+  {
+    "id": 32,
+    "emoji": "🧪",
+    "code": ":test_tube:",
+    "color": "green",
+    "text": "Add/Update QA/E2E/Automation tests."
   }
 ]

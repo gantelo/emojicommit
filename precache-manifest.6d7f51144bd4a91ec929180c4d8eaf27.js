@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d578a41c4262d9fe00b6ccf0340f763",
+    "revision": "bb8fdf3225f563280394fb30f768c729",
     "url": "/emojicommit/index.html"
   },
   {
-    "revision": "d0a0bdf27be955bd193a",
+    "revision": "c88d12849e9c7d0a75d2",
     "url": "/emojicommit/static/css/main.3cc799bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emojicommit/static/js/2.45f39907.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d0a0bdf27be955bd193a",
-    "url": "/emojicommit/static/js/main.6d7de997.chunk.js"
+    "revision": "c88d12849e9c7d0a75d2",
+    "url": "/emojicommit/static/js/main.8f3513c3.chunk.js"
   },
   {
     "revision": "7a6067cffb535fdd4c87",

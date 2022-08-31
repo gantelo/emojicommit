@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/emojicommit/static/css/main.3cc799bf.chunk.css",
-    "main.js": "/emojicommit/static/js/main.5e5696d4.chunk.js",
-    "main.js.map": "/emojicommit/static/js/main.5e5696d4.chunk.js.map",
+    "main.js": "/emojicommit/static/js/main.b755ae69.chunk.js",
+    "main.js.map": "/emojicommit/static/js/main.b755ae69.chunk.js.map",
     "runtime-main.js": "/emojicommit/static/js/runtime-main.ce372aaa.js",
     "runtime-main.js.map": "/emojicommit/static/js/runtime-main.ce372aaa.js.map",
     "static/js/2.45f39907.chunk.js": "/emojicommit/static/js/2.45f39907.chunk.js",
     "static/js/2.45f39907.chunk.js.map": "/emojicommit/static/js/2.45f39907.chunk.js.map",
     "index.html": "/emojicommit/index.html",
-    "precache-manifest.f00038778bd51dd2f5d542d873b4e85f.js": "/emojicommit/precache-manifest.f00038778bd51dd2f5d542d873b4e85f.js",
+    "precache-manifest.b3ce0ad895740bd7865f21071e5df19f.js": "/emojicommit/precache-manifest.b3ce0ad895740bd7865f21071e5df19f.js",
     "service-worker.js": "/emojicommit/service-worker.js",
     "static/css/main.3cc799bf.chunk.css.map": "/emojicommit/static/css/main.3cc799bf.chunk.css.map",
     "static/js/2.45f39907.chunk.js.LICENSE.txt": "/emojicommit/static/js/2.45f39907.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ce372aaa.js",
     "static/js/2.45f39907.chunk.js",
     "static/css/main.3cc799bf.chunk.css",
-    "static/js/main.5e5696d4.chunk.js"
+    "static/js/main.b755ae69.chunk.js"
   ]
 }
